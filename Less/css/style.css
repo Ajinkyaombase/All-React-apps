@@ -1,0 +1,16 @@
+body {
+  background-color: red;
+}
+.button,
+.primary-button,
+.secondary-button {
+  padding: 20px;
+  color: white;
+  background-color: yellow;
+}
+.primary-button {
+  background-color: #afb975;
+}
+.secondary-button {
+  background-color: yellow;
+}
